@@ -42,7 +42,7 @@ namespace cs_interacting_with_the_console
             Console.WriteLine($"The sum of the two numbers is {sum}");
 
             var difference = secondNumber - firstNumber;
-            Console.WriteLine($"The second number divided by the first number is {difference}");
+            Console.WriteLine($"The second number subtracted by the first number is {difference}");
 
             var product = firstNumber * secondNumber;
             Console.WriteLine($"The product of the two numbers is {product}");
